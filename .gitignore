@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Test directories
+__tests__/
+test/
+
+# Logs
+logs/
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
